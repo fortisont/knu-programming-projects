@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Zaza`sNote/CLionProjects/Intervals/Inqeualty.h
+intervals.h
+C:/Users/Zaza`sNote/CLionProjects/Intervals/intervals.h
+SetIntervals.h
+C:/Users/Zaza`sNote/CLionProjects/Intervals/SetIntervals.h
+math.h
+C:/Users/Zaza`sNote/CLionProjects/Intervals/math.h
+
+C:/Users/Zaza`sNote/CLionProjects/Intervals/SetIntervals.h
+intervals.h
+C:/Users/Zaza`sNote/CLionProjects/Intervals/intervals.h
+
+C:/Users/Zaza`sNote/CLionProjects/Intervals/intervals.h
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/Zaza`sNote/CLionProjects/Intervals/main.c
+stdio.h
+-
+intervals.h
+C:/Users/Zaza`sNote/CLionProjects/Intervals/intervals.h
+SetIntervals.h
+C:/Users/Zaza`sNote/CLionProjects/Intervals/SetIntervals.h
+Inqeualty.h
+C:/Users/Zaza`sNote/CLionProjects/Intervals/Inqeualty.h
+
